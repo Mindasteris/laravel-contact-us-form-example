@@ -1,4 +1,6 @@
-# When you download this project:
+# Laravel Contact Form
+
+When you download this project:
 In the project directory <br>
 run CMD command: composer update (composer must be installed globally on your windows machine before command "composer update" would work).
 
